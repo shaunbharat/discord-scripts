@@ -1,0 +1,2 @@
+python-dotenv==1.0.1
+selfcord.py @ git+https://github.com/dolfies/discord.py-self@6e12bbbb6465b5243e1592132bd35dada8ff4c0b
