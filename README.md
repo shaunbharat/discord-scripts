@@ -2,6 +2,9 @@
 
 A collection of scripts for Discord.
 
+> [!WARNING]
+> Selfbotting is against Discord's Terms of Service. Use at your own risk.
+
 ## Selfbot
 
 > self.py
