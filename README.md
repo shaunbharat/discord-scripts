@@ -5,6 +5,17 @@ A collection of scripts for Discord.
 > [!WARNING]
 > Selfbotting is against Discord's Terms of Service. Use at your own risk.
 
+## Setup
+
+1. Populate `.env` file.
+2. Setup virtual environment and install dependencies.
+
+    ```bash
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    ```
+
 ## Selfbot
 
 > self.py
